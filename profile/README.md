@@ -31,3 +31,7 @@
 	</tr>
 </table>
 	
+---
+
+- 러너비 인스타그램: [@runner_be_](https://www.instagram.com/runner_be_/)
+- 러너비 기술블로그: [@runnerbe](https://medium.com/runnerbe)

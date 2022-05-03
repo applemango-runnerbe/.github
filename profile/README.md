@@ -20,6 +20,7 @@
 		<td><a href = "https://github.com/yurrrri">@yurrrri</a> - iOS</td>
 
 	</tr>
+</table>
 ---
 
 - 러너비 인스타그램: [@runner_be_](https://www.instagram.com/runner_be_/)

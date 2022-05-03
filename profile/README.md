@@ -15,9 +15,11 @@
 		<td><a href="https://github.com/kimseojeong">@kimseojeong</a> - Design</td>
 	</tr>
 </table>
+<table align = "center">
+	<tr align = "center">
+		<td><a href = "https://github.com/yurrrri">@yurrrri</a> - iOS</td>
 
-
-	
+	</tr>
 ---
 
 - 러너비 인스타그램: [@runner_be_](https://www.instagram.com/runner_be_/)

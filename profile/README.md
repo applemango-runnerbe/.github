@@ -13,7 +13,6 @@
 	<tr align="center">
 		<td><a href="https://github.com/plannermango">@kimeunseo</a> - Planner</td>
 		<td><a href="https://github.com/kimseojeong">@kimseojeong</a> - Design</td>
-	</tr>
 </table>
 <table align = "center">
 	<tr align = "center">

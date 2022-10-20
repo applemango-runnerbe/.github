@@ -18,7 +18,7 @@
 <table align="center">
 	<tr align="center">
 		<td><a href="https://github.com/yurrrri">@yurrrri</a> - iOS</td>
-		<td><a href="https://github.com/Gyuil-Hwnag">@GyuilHwnag</a> - AOS</td>
+		<td><a href="https://github.com/whwogjs96">@whwogjs96</a> - AOS</td>
 	</tr>	
 </table>
 <table align = "center">

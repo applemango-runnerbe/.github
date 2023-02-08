@@ -21,10 +21,7 @@
 		<td><a href="https://github.com/whwogjs96">@whwogjs96</a> - AOS</td>
 	</tr>	
 </table>
-<table align = "center">
-	<tr align = "center">
-		<td><a href = "https://github.com/leejudy1017">@leejudy</a> - AOS</td>
-	</tr>
+
 </table>
 ---
 
